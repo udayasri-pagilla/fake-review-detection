@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fce4ec;
+  text-align: center;
+  padding: 40px;
+  color: #333;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.button {
+  display: inline-block;
+  padding: 14px 28px;
+  background-color: #d81b60;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.note {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #777;
+}
